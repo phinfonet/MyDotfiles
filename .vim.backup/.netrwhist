@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/phinfonet/Stuff/studio_203_stuff/sustent-bil'
+let g:netrw_dirhist_2='/Users/phinfonet/Stuff/studio_203_stuff/sustent-bil/app'
+let g:netrw_dirhist_3='/Users/phinfonet/Stuff/studio_203_stuff/sustent-bil/app/views'
+let g:netrw_dirhist_4='/Users/phinfonet/Stuff/studio_203_stuff/sustent-bil/app/views/extranet'
+let g:netrw_dirhist_5='/Users/phinfonet/Stuff/studio_203_stuff/sustent-bil/app/views/extranet/dashboard'
+let g:netrw_dirhist_6='/Users/phinfonet/Stuff'
+let g:netrw_dirhist_7='/Users/phinfonet/Stuff/study/mongo_university/hello_world'
