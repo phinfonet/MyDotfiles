@@ -8,2345 +8,2205 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~Msle0/\<request\>
+~MSle0~/delete
 
 # Last Substitute Search Pattern:
-~MSle0~&exceda-ark.net
+~MSle0&error: {akamai_api: response.body}
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :q
+:Q
 :w
-:c""
-:c"
-:retab
-:%s/exceda-ark.net/ark.exceda.net/g
-:nohlsearch
-:q!
-:'<,'>all
-:'<,'>a
-:%s/it 'should return ok' do/it 'does have corect http status' do/g
-:%s/:raccoon_connection =>/raccoon_connection: /g
-:%s/:id => raccoon_connection.id/id: raccoon_connection.id/g
-:%s/:name =>/name:/g
-:%s/:raccoon_browser =>/raccoon_browser:/g
-:%s/:id =>/id:/g
+:we
+:redo
+:close
+:W
+:E
+:NERDTree
+:move-3
+:move-4
+:tabprevious
 :e
-:%s/=>/:/g
-:%s/:q3:/q3:/g
-:%s/:q2:/q2:/g
+:move-2
+:move+1
+:move+2
+:mo
+:move
+:move-1
+:gtgt
+:CtrlP
+:'<,'>w
+:CtrlP app/models/
+:move+3
+:move+5
+:move+10
+::w
+:'<,'>move-2
+:u
+:'<,'>move+1
+:e Gemfile
+:refresh
+:reload
+:move+6
+:move+4
+:q!
+:Netrw
+:.ll
+:move-6
+:CtrlP app/scripts/
+:e app/index.html
+:gt
+:wgtg
+:.,.+7
+:buffers
+:e }
+:w]
+:TOhtml5li
+:EmmetInstall
+:tag li5
 
 # Search String History (newest to oldest):
-? \s*$
-? exceda-ark.net
-? \<request\>
-?/pedro
-??w
-? it 'should return ok' do
-?/set_acl
-?/ttl_ru
-?/asset_t
-?/allow
-?/check
-?/acl
-? :raccoon_connection =>
-? :id => raccoon_connection.id
-? :name =>
-? :raccoon_browser =>
-? :id =>
-? =>
-? :q3:
-? :q2:
+?/delete
+?/report
+?/show
+? \$\(cursor\|select\)\$
+?/Code
+?/code
+? \<a\>
+?/inde
+?/metric
+?/api
+?/raccoon
+?/false
+?/cached
+?/export
+?/char
+?/console
+?/server
+?/owner
+?/KB
+?/kb
+?/lib
+?/req
+?/views
+?/page
+?/processed
+?/raccoon_report
+?/raccoon_reports
+?/controllers
+?/pry
+?/bandwidth
+?/spec
+?/top_visitors_data
+?/top_visitors
+?/top
+?/route
+? \<map\>
+?/5
+?/@response
+?/response
+?/bold
+?/underline
+?/ubuntu
+?/all_nav
+?/all
+?/content
+?/nav
+?/racc
+?/tp
+?/res
+?/pages
 
 # Expression History (newest to oldest):
 
 # Input Line History (newest to oldest):
-@/Users/phinfonet/Stuff/exceda_stuff/Ark/spec/fixtures/vcr_cassettes/admin/_GET_geocoder/test_view.yml.bkp
-@/Users/phinfonet/Stuff/exceda_stuff/Ark/spec/fixtures/clients/
+@/Users/phinfonet/Stuff/havana/css/master.css
+@/Users/phinfonet/Stuff/ark4/Ark/lib/fonts/raccoon_notes.txt
+@/Users/phinfonet/Stuff/ark4/Ark/app/workers/raccoon_executive_report_generator_worker.rb
+@/Users/phinfonet/Stuff/ark4/Ark/app/views/mailer/executive_report_mailer/akamai_report.html.erb
+@/Users/phinfonet/Stuff/ark4/Ark/app/views/mailer/executive_report_mailer/akamai_report.txt.erb
+@/Users/phinfonet/Stuff/ark4/Ark/app/views/mailer/executive_report_mailer
+@/Users/phinfonet/Stuff/ark4/Ark/spec/workers/akamai_executive_report_generator_worker_spec.rb
+@/Users/phinfonet/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+@/Users/phinfonet/Stuff/Aardvark/app/views/tpl/average_calculator.html
+@/Users/phinfonet/Stuff/Aardvark/app/scripts/directives/average_calculator.js
+@/Users/phinfonet/Stuff/pibiti/home_automation_client/app/scripts/controllers/lights_controller.js
 @yes
-@/Users/phinfonet/Stuff/exceda_stuff/Ark/config/initializers/swagger_docs.rb
-@/Users/phinfonet/Stuff/exceda_stuff/Ark/config/initializers/swagger_doscs.rb
-@/Users/phinfonet/Stuff/exceda_stuff/Ark/config/initializers/swagger.rb
-@*
-@mkdir
-@*mkdir*
-@/Users/phinfonet/Stuff/odesk/mobbr-gitlabhq/config/unicorn.rb
-@/Users/phinfonet/Stuff/odesk/mobbr-gitlabhq/config/gitlab.yml
-@/Users/phinfonet/Stuff/odesk/mobbr-gitlabhq/config/database.yml
-@/Users/phinfonet/Stuff/odesk/mobbr-gitlabhq/config/database.yml.postgresql
-@features
-@billing
-@features/
-@billinh
-@DataTable
-@spec/
-@check_relations
+@/Users/phinfonet/Stuff/ark4/Ark/spec/workers/raccoon_finished_job_deactivator_worker_spec.rb
+@/Users/phinfonet/Stuff/ark4/Ark/app/workers/raccoon_finished_job_deactivator_worker.rb
+@/Users/phinfonet/Stuff/ark4/Ark/spec/workers/raccoon_finished_job_deactivator_spec.rb
+@/Users/phinfonet/Stuff/ark4/Ark/spec/workers/raccoon_finished_job_deactivator.rb
+@/Users/phinfonet/Stuff/Aardvark/app/views/assets/_step8.html
+@/Users/phinfonet/Stuff/Aardvark/app/views/assets/_step7.html
+@/Users/phinfonet/Stuff/Aardvark/app/views/assets/_step6.html
+@/Users/phinfonet/Stuff/Aardvark/app/views/assets/_step5.html
+@/Users/phinfonet/Stuff/Aardvark/app/views/assets/_step4.html
+@/Users/phinfonet/Stuff/Aardvark/app/views/assets/_step3.html
+@/Users/phinfonet/Stuff/Aardvark/app/views/assets/_step2.html
+@/Users/phinfonet/Stuff/Aardvark/app/views/assets/_step1.html
+@/Users/phinfonet/Stuff/Aardvark/app/scripts/filters/colorTable.js
+@/Users/phinfonet/Stuff/pybr/mentorfy/boot.py
+@/Users/phinfonet/Stuff/pybr/mentorfy/app.py
+@/Users/phinfonet/Stuff/ark3/Ark/spec/workers/akamai_streaming_hd_delete_worker_spec.rb
+@/Users/phinfonet/Stuff/ark3/Ark/app/workers/akamai_streaming_hd_delete_worker.rb
+@/Users/phinfonet/Stuff/ark3/Ark/spec/workers/akamai_streaming_input_delete_worker_spec.rb
+@/Users/phinfonet/Stuff/ark3/Ark/spec/workers/akamai_streaming_input_update_worker_spec.rb
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/templates/common/mainMenu.html
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/js/directives/mainMenu.js
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/js/directives/menu.js
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/js/controllers/
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/js/directives/
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/templates/home/home.html
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/templates/home/
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/templates/common/menu.html
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/templates/common/login.html
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/templates/common/
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/templates/
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/js/routes.js
+@/Users/phinfonet/Stuff/noofences/noofences-mobile/noofences-mobile/www/js/controller
+@/Users/phinfonet/Stuff/Aardvark/app/views/tpl/quota_calculator.html
+@/Users/phinfonet/Stuff/Aardvark/app/views/tpl/quota_sum.html
+@/Users/phinfonet/Stuff/Aardvark/app/scripts/directives/quota_calculator.js
+@/Users/phinfonet/Stuff/Aardvark/app/scripts/directives/quota_calculator
+@/Users/phinfonet/Stuff/ark4/Ark/spec/factories/raccoon_result_trackers.rb
+@/Users/phinfonet/Stuff/ark4/Ark/spec/workers/raccoon_quota_notifier_worker_spec.rb
 
 # Input Line History (newest to oldest):
 
 # Registers:
 "0	LINE	0
-	        @akamai_global ||= AkamaiGlobal.by_client(current_user.client.id).accessible_by(current_ability, :index).find(params[:akamai_global_id])
+	          <p class="flow-text"></p>
 ""1	LINE	0
-	    end
+	#include <mongoc.h>
 "2	LINE	0
-	    begin
+	#include <mongoc.h>
 "3	LINE	0
-	    binding.pry
-"4	CHAR	0
-	128 * 1024
-"5	CHAR	0
-	skip_instruction
+	
+"4	LINE	0
+	    // });
+"5	LINE	0
+	    // $translate('Are you sure want to remove?', {}).then(function (translation){
 "6	CHAR	0
-	.
-"7	CHAR	0
-	post
+	translation
+"7	LINE	0
+	      console.log(translation)
 "8	LINE	0
-	    binding.pry
-"9	CHAR	0
-	    @@baseuri = URI(ENV['BASE_URI'])
-	
-	    @@http = Akamai::Edgegrid::HTTP.new(
-	      address= @@baseuri.host,
-	      post=    @@baseuri.port
-	    )
-	
-	    @@http.setup_edgegrid(
-	      client_token:  ENV['CLIENT_TOKEN'],
-	      client_secret: ENV['CLIENT_SECRET'],
-	      access_token:  ENV['ACCESS_TOKEN'],
-	      max_body: 128 * 1024
-	    )
-	
-	
-"-	LINE	0
-	    binding.pry
+	      console.log(translation)
+"9	LINE	0
+	      console.log($id)
+"a@	CHAR	0
+	€kr€kr€kr€kl€kl€klv€kr€kr€kr€krdiorigin_bj
+"b	CHAR	0
+	f"€kr€kr
+"c	CHAR	0
+	@ajF"F beee
+"l	CHAR	0
+	426
+<qgtgtgt€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýN€ýK€ý,€ý.€kdt€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd:q€ýc€ýb€kd€kd€kd/jo€kb€kbpage	€kbs	€kb€kb		€kb€kb€kb€kb€kbage€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýb€ýc€ýbgtgtgt€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ýc€ýb€ýc€ýb€kN€kN€kN€kN€kP€kP€ku€ku€ku€ku€ku€ku€ku€ku€ku€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€kut:q:q€kbgtgtgt
+"q	CHAR	0
+	:q!:q!
+"w	CHAR	0
+	ded€kr
+"y	CHAR	0
+	yp€kd€kd:q€kbq€ý,€ý.t€ý,€ý.€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýK€ýN€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýN€ku€ku€ku€ý,€ý.€kd€kd€kd€kdt€kd€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ýL€ý,€ý.i€ü€€kr
+"-	CHAR	0
+	translation
 
 # File marks:
-'0  1  0  ~/Stuff/exceda_stuff/ark/NERD_tree_1
-'1  38  12  ~/Stuff/exceda_stuff/ark/NERD_tree_1
-'2  39  4  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
-'3  110  14  ~/Stuff/exceda_stuff/ark/NERD_tree_1
-'4  4  52  ~/Stuff/exceda_stuff/ark/.env
-'5  5  52  ~/Stuff/exceda_stuff/ark/.env
-'6  37  4  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
-'7  36  4  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
-'8  1  0  ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/raccoon_jobs_controller_spec.rb
-'9  5  50  ~/Stuff/exceda_stuff/ark/.env
+'0  12  14  ~/Stuff/college/data_structure_one/fibonacci2.c
+'1  24  0  ~/Stuff/Aardvark/NERD_tree_1
+'2  189  22  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+'3  124  0  ~/Stuff/Aardvark/NERD_tree_1
+'4  112  2  ~/Stuff/ark4/Ark/NERD_tree_1
+'5  5  46  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+'6  6  4  ~/Stuff/havana/NERD_tree_1
+'7  8  73  ~/Stuff/havana/README.MD
+'8  211  0  ~/Stuff/Aardvark/NERD_tree_1
+'9  265  0  ~/Stuff/Aardvark/NERD_tree_1
 
 # Jumplist (newest first):
--'  1  0  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  25  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  38  12  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  63  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  39  4  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  37  29  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  40  7  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  35  65  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  1  0  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  75  13  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  99  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  110  14  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  136  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  4  52  ~/Stuff/exceda_stuff/ark/.env
--'  2  0  ~/Stuff/exceda_stuff/ark/.env
--'  5  50  ~/Stuff/exceda_stuff/ark/.env
--'  38  43  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  149  13  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  173  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  191  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  215  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  157  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  181  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  1  0  ~/Stuff/exceda_stuff/ark/.env
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  4  13  ~/Stuff/exceda_stuff/ark/.env
--'  2  0  ~/Stuff/exceda_stuff/ark/.env
--'  120  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  5  50  ~/Stuff/exceda_stuff/ark/.env
--'  160  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  178  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  202  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  144  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  168  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  1  0  ~/Stuff/exceda_stuff/ark/.env
--'  3  0  ~/Stuff/exceda_stuff/ark/.env
--'  2  52  ~/Stuff/exceda_stuff/ark/.env
--'  4  52  ~/Stuff/exceda_stuff/ark/.env
--'  1  77  ~/Stuff/exceda_stuff/ark/.env
--'  73  14  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  5  50  ~/Stuff/exceda_stuff/ark/.env
--'  41  22  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  112  13  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  154  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  83  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  123  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  141  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  165  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  107  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  131  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  41  13  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  65  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  76  14  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  102  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  4  52  ~/Stuff/exceda_stuff/ark/.env
--'  2  0  ~/Stuff/exceda_stuff/ark/.env
--'  5  50  ~/Stuff/exceda_stuff/ark/.env
--'  115  13  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  139  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  2  0  ~/Stuff/exceda_stuff/helpy.xml
--'  1  0  ~/Stuff/exceda_stuff/helpy.xml
--'  14  12  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  39  2  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  39  4  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  37  29  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  40  7  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  35  65  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  1  0  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
--'  51  13  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  86  14  ~/Stuff/exceda_stuff/ark/NERD_tree_1
--'  4  52  ~/Stuff/exceda_stuff/ark/.env
--'  2  0  ~/Stuff/exceda_stuff/ark/.env
--'  5  50  ~/Stuff/exceda_stuff/ark/.env
--'  38  43  ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
+-'  12  14  ~/Stuff/college/data_structure_one/fibonacci2.c
+-'  3  0  ~/Stuff/college/data_structure_one/fibonacci2.c
+-'  13  11  ~/Stuff/college/data_structure_one/fibonacci2.c
+-'  20  0  ~/Stuff/college/data_structure_one/fibonacci2.c
+-'  4  0  ~/Stuff/college/data_structure_one/fibonacci2.c
+-'  1  0  ~/Stuff/college/data_structure_one/fibonacci2.c
+-'  24  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  50  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  1  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  189  22  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  16  126  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  1  0  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  59  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  107  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  124  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  151  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  112  2  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  137  2  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  1  2  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  5  46  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  182  118  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  184  16  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  56  0  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  170  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  197  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  6  4  ~/Stuff/havana/NERD_tree_1
+-'  5  0  ~/Stuff/havana/NERD_tree_1
+-'  12  2  ~/Stuff/havana/NERD_tree_1
+-'  1  4  ~/Stuff/havana/NERD_tree_1
+-'  8  73  ~/Stuff/havana/README.MD
+-'  7  36  ~/Stuff/havana/README.MD
+-'  6  32  ~/Stuff/havana/README.MD
+-'  211  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  246  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  265  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  292  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  190  6  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  273  2  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  334  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  359  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  1  0  ~/Stuff/Aardvark/app/scripts/controllers/users.js
+-'  376  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  438  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  160  78  ~/Stuff/ark4/Ark/app/views/admin/raccoon_jobs/_form.html.erb
+-'  177  0  ~/Stuff/ark4/Ark/app/views/admin/raccoon_jobs/_form.html.erb
+-'  1  0  ~/Stuff/ark4/Ark/app/views/admin/raccoon_jobs/_form.html.erb
+-'  1  0  ~/Stuff/ark4/Ark/sidekiq.pid
+-'  728  2  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  285  4  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  1  0  ~/Downloads/New iGO8 2016 Portal do GPS/SHELL.INI
+-'  71  58  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  61  44  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  60  0  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  53  52  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  54  56  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  55  54  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  72  20  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  49  47  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  48  48  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  46  32  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  40  46  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  38  75  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  58  3  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  45  24  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  33  20  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  37  2  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  39  6  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  41  0  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  43  4  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  44  5  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  50  6  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  30  0  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  68  29  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  59  52  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  47  0  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  51  6  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  20  0  ~/Stuff/ark4/Ark/app/workers/akamai_executive_report_generator_worker.rb
+-'  24  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  50  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  1  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  189  22  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  16  126  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  1  0  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  59  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  107  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  124  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  151  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  112  2  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  137  2  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  1  2  ~/Stuff/ark4/Ark/NERD_tree_1
+-'  5  46  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  182  118  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  184  16  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  56  0  ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+-'  170  0  ~/Stuff/Aardvark/NERD_tree_1
+-'  197  2  ~/Stuff/Aardvark/NERD_tree_1
+-'  6  4  ~/Stuff/havana/NERD_tree_1
+-'  5  0  ~/Stuff/havana/NERD_tree_1
+-'  12  2  ~/Stuff/havana/NERD_tree_1
 
 # History of marks within files (newest to oldest):
 
-> ~/Stuff/exceda_stuff/ark/NERD_tree_1
-	"	1	0
-	^	110	15
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/ark/app/services/akamai/akamai_web_service.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/ark/app/services/akamai/domain_service.rb
-	"	39	4
-	^	39	4
-	.	1	0
-	+	1	0
-	+	35	52
-	+	1	0
-	+	39	0
-	+	1	0
-	+	36	0
-	+	39	8
-	+	39	52
-	+	40	7
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	39	0
-	+	1	0
-	+	39	0
-	+	40	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/ark/spec/workers/raccoon_alerts_worker_spec.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/ark/app/workers/raccoon_queue_worker.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/ark/spec/models/raccoon_queue_spec.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/ark/app/services/akamai/akamai_rest.rb
-	"	8	36
-	^	1	0
-	.	1	0
-	+	23	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/ark/config/initializers/akamai_open_api.rb
-	"	12	2
-	^	12	12
-	.	1	0
-	+	12	12
-	+	13	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/ark/.env
-	"	3	0
-	^	3	0
-	.	1	0
-	+	5	0
-	+	2	76
-	+	5	58
-	+	5	50
-	+	2	77
-	+	5	52
-	+	5	14
-	+	5	13
-	+	5	13
-	+	5	58
-	+	5	52
-	+	5	14
-	+	5	52
-	+	2	10
-	+	2	0
-	+	2	0
-	+	2	0
-	+	1	77
-	+	2	0
-	+	4	52
-	+	2	51
-	+	4	51
-	+	3	58
-	+	2	13
-	+	3	14
-	+	4	13
-	+	1	0
-	+	4	14
-	+	1	0
-	+	2	14
-	+	1	0
-	+	3	15
-	+	1	0
-
-> ~/Stuff/exceda_stuff/ark/app/services/akamai/policy_service.rb
-	"	2	40
-	^	1	0
-	.	1	0
-	+	1	0
-	+	1	18
-	+	1	0
-	+	1	19
-	+	1	0
-	+	1	28
-	+	1	0
-	+	1	32
-	+	1	2
-	+	1	1
-	+	1	0
-	+	1	2
-	+	1	1
-	+	1	16
-	+	1	19
-	+	1	4
-	+	1	4
-	+	1	12
-	+	1	17
-	+	1	19
-	+	1	19
-	+	1	19
-	+	1	18
-	+	1	18
-	+	1	18
-	+	1	35
-	+	1	0
-	+	1	36
-	+	1	0
-	+	1	35
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	19
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	19
-	+	1	2
-	+	1	1
-	+	1	0
-	+	1	55
-	+	1	0
-	+	1	47
-	+	1	0
-	+	1	52
-	+	1	0
-	+	1	0
-	+	1	53
-	+	1	0
-	+	1	52
-	+	1	19
-	+	1	0
-	+	2	52
-	+	5	0
-	+	2	40
-	+	1	0
-	+	2	0
-	+	5	0
-	+	1	0
-	+	2	84
-	+	1	0
-
-> ~/Stuff/exceda_stuff/ark/app/services/akamai/utility_service.rb
-	"	38	0
-	^	38	0
-	.	1	0
-	+	7	22
-	+	2	10
-	+	1	0
-	+	1	0
-	+	1	0
-	+	7	22
-	+	1	33
-	+	3	4
-	+	4	3
-	+	3	4
-	+	4	38
-	+	7	22
-	+	2	27
-	+	1	0
-	+	2	15
-	+	1	0
-	+	2	15
-	+	2	0
-	+	2	0
+> ~/Stuff/college/data_structure_one/fibonacci2.c
+	"	12	14
+	^	13	12
+	.	12	0
 	+	4	0
-	+	1	0
+	+	12	11
 	+	4	0
-	+	1	0
-	+	1	0
-	+	7	32
-	+	1	0
-	+	7	20
-	+	1	0
-	+	1	0
-	+	7	54
-	+	1	0
-	+	7	50
-	+	7	50
-	+	7	0
-	+	1	0
-	+	7	0
-	+	1	0
-	+	7	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	4	38
-	+	1	0
-	+	1	0
-	+	4	0
-	+	4	0
-	+	1	0
-	+	4	0
-	+	1	0
-	+	5	4
-	+	1	0
-	+	8	2
-	+	51	0
-	+	9	11
-	+	10	92
-	+	15	2
-	+	21	5
-	+	16	11
-	+	17	92
-	+	1	0
-	+	51	0
-	+	23	11
-	+	24	92
-	+	1	0
-	+	1	0
 	+	12	0
-	+	1	0
-	+	1	0
-	+	26	0
-	+	1	0
-	+	30	25
-	+	34	38
-	+	31	91
-	+	1	0
-	+	51	0
-	+	33	3
-	+	35	0
-	+	1	0
-	+	19	0
-	+	1	0
-	+	43	4
-	+	33	0
-	+	1	0
-	+	38	92
-	+	51	0
-	+	46	92
-	+	38	101
-	+	1	0
-	+	37	19
-	+	45	16
-	+	1	0
-	+	30	26
-	+	1	0
-	+	23	17
-	+	1	0
-	+	48	0
-	+	1	0
-	+	40	0
-	+	1	0
 
-> ~/Stuff/exceda_stuff/helpy.xml
-	"	2	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/services/domain_service_spec.rb
-	"	57	7
-	^	51	7
-	.	1	0
-	+	33	27
-	+	60	41
-	+	1	0
-	+	1	0
-	+	1	0
-	+	61	66
-	+	63	0
-	+	58	0
-	+	34	31
-	+	42	36
-	+	54	30
-	+	57	0
-	+	34	109
-	+	1	0
-	+	34	101
-	+	1	0
-	+	34	36
-	+	35	0
-	+	35	125
-	+	1	0
-	+	35	51
-	+	36	58
-	+	1	0
-	+	43	62
-	+	1	0
-	+	1	0
-	+	1	0
-	+	55	27
-	+	1	0
-	+	55	59
-	+	55	0
-	+	1	0
-	+	55	0
-	+	55	75
-	+	55	110
-	+	55	111
-	+	56	103
-	+	56	177
-	+	46	31
-	+	48	0
-	+	56	0
-	+	47	8
-	+	47	39
-	+	47	8
-	+	47	60
-	+	1	0
-	+	55	43
-	+	1	0
-	+	50	37
-	+	52	0
-	+	56	103
-	+	1	0
-	+	56	49
-	+	1	0
-	+	1	0
-	+	51	68
-	+	51	78
-	+	1	0
-	+	33	2
-	+	34	0
-	+	1	0
-	+	1	0
-	+	39	30
-	+	1	0
-	+	40	0
-	+	39	30
-	+	1	0
-	+	37	26
-	+	1	0
-	+	43	32
-	+	1	0
-	+	50	35
-	+	51	41
-	+	1	0
-	+	51	7
-	+	51	76
-	+	1	0
-	+	51	59
-	+	1	0
-	+	51	35
-	+	1	0
-	+	51	42
-	+	1	0
-	+	51	7
-	+	51	58
-	+	1	0
-	+	51	57
-	+	51	65
-	+	1	0
-	+	51	42
-	+	1	0
-	+	52	0
-	+	51	42
-	+	1	0
-	+	51	35
-	+	1	0
-	+	47	56
-	+	1	0
-	+	51	7
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/models/akamai_cdn.rb
-	"	492	0
-	^	127	23
-	.	1	0
-	+	1	0
-	+	575	0
-	+	1	0
-	+	574	0
-	+	1	0
-	+	1	0
-	+	73	28
-	+	1	0
-	+	76	0
-	+	1	0
-	+	544	46
-	+	1	0
-	+	651	0
-	+	1	0
-	+	545	0
-	+	1	0
-	+	160	5
-	+	162	5
-	+	1	0
-	+	162	13
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/raccoon_browsers_controller_spec.rb
-	"	1	0
-	^	81	0
-	.	1	0
-	+	45	0
-	+	50	0
-	+	49	0
-	+	46	22
-	+	48	0
-	+	47	8
-	+	1	0
-	+	45	0
-	+	1	0
-	+	44	53
-	+	44	0
-	+	39	0
-	+	44	24
-	+	44	0
-	+	44	150
-	+	44	0
-	+	44	0
-	+	1	0
-	+	39	0
-	+	1	0
-	+	44	34
-	+	1	0
-	+	39	54
-	+	44	0
-	+	37	7
-	+	40	13
-	+	40	28
-	+	42	0
-	+	42	0
-	+	41	0
-	+	1	0
-	+	38	0
-	+	1	0
-	+	105	0
-	+	104	7
-	+	105	5
-	+	1	0
-	+	45	0
-	+	1	0
-	+	72	6
-	+	105	6
-	+	85	0
-	+	85	0
-	+	85	0
-	+	85	0
-	+	106	0
-	+	85	0
-	+	105	0
-	+	86	0
-	+	87	0
-	+	1	0
-	+	1	0
-	+	33	146
-	+	1	0
-	+	33	78
-	+	79	11
-	+	81	0
-	+	80	0
-	+	1	0
-	+	1	0
-	+	81	62
-	+	1	0
-	+	35	0
-	+	35	0
-	+	33	63
-	+	1	0
-	+	33	8
-	+	82	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/raccoon_connections_controller_spec.rb
-	"	92	0
-	^	96	9
-	.	39	0
-	+	39	0
-	+	50	0
-	+	40	0
-	+	38	0
-	+	1	0
-	+	104	0
-	+	88	118
-	+	101	95
-	+	1	0
-	+	86	0
-	+	83	9
-	+	84	0
-	+	87	0
-	+	85	0
-	+	1	0
-	+	35	0
-	+	35	0
-	+	33	0
-	+	34	60
-	+	80	0
-	+	82	0
-	+	80	0
-	+	34	66
-	+	1	0
-	+	39	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/raccoon_frequencies_controller_spec.rb
-	"	1	0
-	^	31	10
-	.	1	0
-	+	35	9
-	+	35	9
-	+	36	0
-	+	36	0
-	+	47	0
-	+	1	0
-	+	92	0
-	+	109	111
-	+	1	0
-	+	92	0
-	+	93	0
-	+	1	0
-	+	89	75
-	+	90	0
-	+	88	0
-	+	1	0
-	+	1	0
-	+	32	76
-	+	34	0
-	+	30	0
-	+	1	0
-	+	32	66
-	+	1	0
-	+	28	0
-	+	33	0
-	+	39	0
-	+	38	25
-	+	39	0
-	+	40	127
-	+	1	0
-	+	42	8
-	+	1	0
-	+	1	0
-	+	34	0
-	+	1	0
-	+	30	0
-	+	34	68
-	+	1	0
-	+	1	0
-	+	1	0
-	+	41	0
-	+	1	0
-	+	30	0
-	+	1	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/controllers/api/v1/raccoon_frequencies_controller.rb
-	"	1	0
-	^	19	50
-
-> ~/Stuff/exceda_stuff/Ark/app/controllers/api/v1/raccoon_globals_controller.rb
-	"	1	0
-	^	32	10
-	.	1	0
-	+	17	74
-	+	54	0
-	+	51	17
-	+	51	17
-	+	53	0
-	+	55	0
-	+	38	0
-	+	16	80
-	+	53	0
-	+	52	8
-	+	54	0
-	+	52	8
-	+	1	0
-	+	16	0
-	+	27	0
-	+	24	0
-	+	14	0
-	+	5	0
-	+	1	0
-	+	3	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	19	36
-	+	19	0
-	+	18	0
-	+	19	0
-	+	19	33
-	+	23	0
-	+	22	0
-	+	19	35
-	+	18	0
-	+	1	0
-	+	14	0
-	+	13	0
-	+	1	0
-	+	36	41
-	+	37	0
-	+	10	0
-	+	11	1
-	+	12	0
-	+	10	0
-	+	10	0
-	+	9	26
-	+	1	0
-	+	37	112
-	+	37	0
-	+	37	91
-	+	37	53
-	+	37	113
-	+	37	0
-	+	37	128
-	+	37	0
-	+	37	80
-	+	37	0
-	+	1	0
-	+	29	9
-	+	29	0
-	+	29	0
-	+	37	0
-	+	37	8
-	+	29	0
-	+	34	0
-	+	29	33
-	+	1	0
-	+	29	47
-	+	37	127
-	+	1	0
-	+	37	0
-	+	1	0
-	+	38	0
-	+	33	0
-	+	29	7
-	+	33	1
-	+	29	25
-	+	30	0
-	+	29	22
-	+	30	1
-	+	31	3
-	+	32	5
-	+	1	0
-	+	54	34
-	+	54	7
-	+	55	0
-	+	54	0
-	+	32	39
-	+	31	83
-	+	32	0
-	+	1	0
-	+	32	91
-	+	1	0
-	+	32	97
-	+	1	0
-	+	32	90
-	+	19	46
-	+	19	0
-	+	32	81
-	+	18	26
-	+	21	28
-	+	1	0
-	a	4	48
-
-> ~/Stuff/exceda_stuff/Ark/app/controllers/api/api_controller.rb
-	"	1	0
-	^	10	0
-	.	1	0
-	+	1	0
-	+	19	0
-	+	1	0
-	+	1	0
-	+	10	0
-	+	1	0
-	+	19	0
-	+	1	0
-	+	1	0
-	+	31	0
-	+	1	0
-	+	1	0
-	+	23	0
-	+	1	0
-	+	1	0
-	+	10	0
-	+	1	0
-	+	1	0
-	+	10	0
-	+	18	18
-	+	1	0
-	+	19	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/views/api/v1/raccoon_frequencies/index.json.jbuilder
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/views/api/v1/raccoon_connections/index.json.jbuilder
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/views/api/v1/raccoon_globals/index.json.jbuilder
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-	+	3	0
-	+	1	0
-	+	2	25
-	+	1	25
-	+	2	16
-	+	1	0
-	+	1	70
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/raccoon_frequencies/index/search_valid.json
-	"	1	0
-	^	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/raccoon_globals_controller_spec.rb
-	"	98	0
-	^	41	10
-	.	1	0
-	+	44	7
-	+	45	0
-	+	43	6
-	+	46	107
-	+	46	28
-	+	46	28
-	+	47	0
-	+	47	0
-	+	52	22
-	+	53	55
-	+	54	0
-	+	53	0
-	+	44	0
-	+	1	0
-	+	1	0
-	+	29	59
-	+	1	0
-	+	1	0
-	+	120	0
-	+	114	22
-	+	115	0
-	+	115	0
-	+	1	0
-	+	113	0
-	+	113	0
-	+	121	0
-	+	108	0
-	+	110	0
-	+	108	0
-	+	1	0
-	+	97	0
-	+	1	0
-	+	97	57
-	+	105	0
-	+	97	4
-	+	99	39
-	+	100	36
-	+	103	0
-	+	101	0
-	+	103	0
-	+	101	0
-	+	1	0
-	+	97	0
-	+	1	0
-	+	1	0
-	+	94	39
-	+	1	0
-	+	1	0
-	+	94	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	94	28
-	+	94	0
-	+	92	0
-	+	94	0
-	+	93	71
-	+	1	0
-	+	93	90
-	+	93	89
-	+	93	89
-	+	1	0
-	+	93	12
-	+	1	0
-	+	27	0
-	+	1	0
-	+	28	0
-	+	1	0
-	+	90	0
-	+	1	0
-	+	91	0
-	+	93	11
-	+	93	12
-	+	1	0
-	+	91	0
-	+	1	0
-	+	98	21
-	+	99	0
-	+	98	21
-	+	1	0
-	+	99	32
-	+	100	11
-	+	1	0
-	+	25	35
-	+	32	0
-	+	32	9
-	+	42	0
-	+	35	0
-	+	34	27
-	+	26	0
-	+	41	0
-	+	36	95
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/raccoon_globals/index/valid.json
-	"	1	0
-	^	39	1
+> ~/Stuff/Aardvark/NERD_tree_1
+	"	24	0
 	.	1	0
 	+	1	0
 	+	1	0
 	+	1	0
 	+	1	0
-	+	1	14
-	+	1	15
-	+	1	0
-	+	1	15
-	+	1	15
-	+	1	32
-	+	1	38
-	+	1	22
-	+	1	13
 	+	1	0
 	+	1	0
 	+	1	0
-	+	2	0
 	+	1	0
-	+	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
 	+	1	0
 
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/raccoon_frequencies/index/valid.json
+> ~/Stuff/Aardvark/app/scripts/controllers/raccoon_jobs.js
 	"	1	0
-	.	1	0
-	+	1	0
-	+	2	0
-	+	1	0
-	+	6	14
-	+	7	18
-	+	6	14
-	+	6	31
-	+	7	0
-	+	7	43
-	+	7	45
-	+	7	45
-	+	8	0
-	+	7	18
-	+	8	0
-	+	1	0
-	+	4	0
-	+	1	0
+	^	396	74
+	.	401	0
+	+	466	77
+	+	466	1
+	+	537	0
+	+	515	0
+	+	466	174
+	+	515	0
+	+	478	0
+	+	469	20
+	+	469	20
+	+	476	20
+	+	13	57
+	+	466	1
+	+	589	0
+	+	476	0
+	+	13	51
+	+	469	35
+	+	469	20
+	+	469	20
+	+	469	20
+	+	478	0
+	+	478	0
+	+	13	262
+	+	469	53
+	+	478	0
+	+	469	20
+	+	478	0
+	+	13	252
+	+	476	10
+	+	478	0
+	+	477	0
+	+	471	0
+	+	469	20
+	+	469	20
+	+	13	262
+	+	469	20
+	+	466	20
+	+	466	0
+	+	469	18
+	+	469	25
+	+	471	0
+	+	469	26
+	+	470	0
+	+	469	37
+	+	477	0
+	+	469	0
+	+	457	0
+	+	454	0
+	+	457	52
+	+	457	0
+	+	469	0
+	+	248	23
+	+	261	23
+	+	271	23
+	+	282	23
+	+	302	23
+	+	172	22
+	+	190	22
+	+	207	22
+	+	190	22
+	+	172	22
+	+	207	23
+	+	190	22
+	+	172	22
+	+	204	0
+	+	186	33
+	+	207	23
+	+	394	0
+	+	396	28
+	+	396	0
+	+	396	0
+	+	400	0
+	+	396	0
+	+	396	0
+	+	400	0
+	+	401	0
+	+	396	0
+	+	401	0
+	j	474	1
 
-> ~/Stuff/exceda_stuff/Ark/app/views/api/v1/raccoon_globals/raccoon_charts.json.jbuilder
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	14
-	+	2	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/views/api/v1/raccoon_globals/error.json.jbuilder
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/raccoon_globals/raccoon_charts/valid.json
-	"	1	0
-	^	139	0
-	.	1	0
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	19
-	+	139	1
-	+	139	19
-	+	139	1
-	+	139	19
-	+	139	19
-	+	139	19
-	+	139	19
-	+	139	1
-	+	139	1
-	+	139	19
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	25
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	25
-	+	139	25
-	+	139	25
-	+	139	25
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	139	1
-	+	140	0
-	+	140	0
-	+	1	0
-	+	3	0
-	+	1	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/support/shared_example_for_bad_request.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/controllers/api/v1/raccoon_jobs_controller.rb
-	"	1	0
-	^	10	6
-	.	1	0
-	+	81	0
-	+	1	0
-	+	11	0
-	+	10	0
-	+	10	0
-	+	10	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/controllers/api/v1/akamai_cdns_controller.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/akamai_globals_controller_spec.rb
-	"	1	0
-	^	76	54
-
-> ~/Stuff/exceda_stuff/Ark/app/controllers/api/v1/raccoon_browsers_controller.rb
-	"	1	0
-	^	24	0
-
-> ~/Stuff/exceda_stuff/Ark/app/views/api/v1/raccoon_jobs/index.json.jbuilder
-	"	1	0
-	^	6	4
-	.	1	0
-	+	1	12
-	+	2	27
-	+	2	33
-	+	2	12
-	+	2	12
-	+	2	24
-	+	2	21
-	+	2	0
-	+	2	14
-	+	2	34
-	+	2	0
-	+	2	4
-	+	2	4
-	+	2	17
-	+	2	33
-	+	3	18
-	+	3	18
-	+	3	31
-	+	4	31
-	+	5	37
-	+	6	34
-	+	7	33
-	+	8	23
-	+	9	53
-	+	10	56
-	+	11	0
-	+	9	52
-	+	10	55
-	+	12	0
-	+	12	60
-	+	14	3
-	+	15	0
-	+	7	4
-	+	8	4
-	+	9	4
-	+	10	4
-	+	11	4
-	+	12	4
-	+	7	14
-	+	8	14
-	+	7	26
-	+	8	14
-	+	9	14
-	+	10	14
-	+	11	14
-	+	12	34
-	+	9	32
-	+	8	21
-	+	7	43
-	+	8	33
-	+	10	34
-	+	11	32
-	+	12	69
-	+	1	0
-	+	15	12
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/raccoon_jobs_controller_spec.rb
-	"	1	0
-	^	28	28
-	.	343	0
-	+	343	0
-
-> ~/.ssh/known_hosts
-	"	18	0
-	.	19	0
-	+	19	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/services/policy_service_spec.rb
-	"	1	0
-	^	4	0
-	.	1	0
-	+	1	0
-	+	1	0
-	+	5	0
-	+	6	0
-	+	1	0
-	+	1	0
-	+	3	0
-	+	1	0
-	+	5	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/.git/refs/heads/policy_service
+> ~/Stuff/Aardvark/app/views/raccoon-global/graphs.html
 	"	1	0
 
-> ~/Stuff/exceda_stuff/Ark/app/services/akamai/stream_service.rb
-	"	1	0
-	^	1	0
-	.	1	0
-	+	2	0
-	+	2	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/services/utility_service_spec.rb
-	"	1	25
-	^	1	26
-	.	1	0
-	+	4	32
-	+	8	13
-	+	10	0
-	+	11	0
-	+	10	27
-	+	8	14
-	+	10	36
-	+	1	0
-	+	11	30
-	+	1	0
-	+	11	44
-	+	1	0
-	+	5	0
-	+	5	22
-	+	5	4
-	+	5	0
-	+	8	2
-	+	6	60
-	+	1	0
-	+	11	79
-	+	1	0
-	+	11	0
-	+	1	0
-	+	11	0
-	+	12	0
-	+	1	0
-	+	11	93
-	+	1	0
-	+	11	80
-	+	1	0
-	+	11	0
-	+	10	0
-	+	11	13
-	+	10	6
-	+	11	0
-	+	1	0
-	+	1	0
-	+	50	0
-	+	15	20
-	+	11	0
-	+	16	0
-	+	17	70
-	+	1	0
-	+	6	45
-	+	1	0
-	+	17	36
-	+	1	0
-	+	16	28
-	+	1	0
-	+	50	0
-	+	27	18
-	+	28	27
-	+	29	34
-	+	1	0
-	+	20	0
-	+	21	21
-	+	22	29
-	+	23	63
-	+	1	0
-	+	22	16
-	+	1	0
-	+	1	0
-	+	50	0
-	+	33	27
-	+	34	32
-	+	35	43
-	+	1	0
-	+	50	0
-	+	39	21
-	+	40	25
-	+	41	37
-	+	50	0
-	+	45	18
-	+	46	22
-	+	47	42
-	+	45	26
-	+	33	28
-	+	35	44
-	+	29	35
-	+	27	19
-	+	11	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/utility_service/archive_location/archive_location.xml
-	"	1	0
-	^	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/models/akamai_cdn_spec.rb
-	"	574	10
-	^	574	11
-	.	1	0
-	+	1	0
-	+	1	0
-	+	692	0
-	+	1	0
-	+	483	35
-	+	1	0
-	+	623	4
-	+	1	0
-	+	626	82
-	+	1	0
-	+	635	75
-	+	1	0
-	+	624	60
-	+	1	0
-	+	626	60
-	+	1	0
-	+	626	56
-	+	1	0
-	+	652	0
-	+	638	0
-	+	641	78
-	+	1	0
-	+	639	49
-	+	1	0
-	+	649	93
-	+	1	0
-	+	649	92
-	+	1	0
-	+	649	68
-	+	1	0
-	+	641	57
-	+	1	0
-	+	1	0
-	+	728	0
-	+	691	0
-	+	692	0
-	+	692	0
-	+	199	39
-	+	200	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	626	63
-	+	1	0
-	+	1	0
-	+	626	56
-	+	1	0
-	+	1	0
-	+	626	81
-	+	1	0
-	+	628	0
-	+	626	84
-	+	626	140
-	+	626	102
-	+	627	0
-	+	627	99
-	+	627	52
-	+	627	99
-	+	628	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	627	0
-	+	641	67
-	+	1	0
-	+	641	59
-	+	1	0
-	+	641	56
-	+	1	0
-	+	641	113
-	+	641	0
-	+	1	0
-	+	641	121
-	+	1	0
-	+	649	68
-	+	1	0
-	+	626	43
-	+	627	72
-	+	1	0
-	+	635	68
-	+	1	0
-	+	612	67
-	+	1	0
-	+	620	68
-	+	1	0
-	+	620	105
-	+	620	0
-	+	1	0
-	+	1	0
-	+	80	0
-	+	79	41
-	+	91	0
-	+	88	41
-	+	1	0
-	+	81	41
-	+	1	0
-	+	81	40
-	+	1	0
-	+	89	59
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/utility_service/archive_location/valid.json
-	"	1	0
-	^	3	4
-	.	3	0
-	+	1	0
-	+	3	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/support/api_schema_matcher.rb
-	"	1	0
-	^	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/support/services_schema_matcher.rb
-	"	1	0
-	^	12	4
-	.	1	0
-	+	1	0
-	+	4	56
-	+	12	56
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/services/akamai_rest_spec.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/utility_service/contacts.xml
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/utility_service/cpcode.xml
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/utility_service/countries.xml
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/utility_service/delivery_formats.xml
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/vcr_cassettes/AkamaiRest/_purge/when_type_is_arl/when_one_or_more_urls_is_invalid/does_generate_a_json_hash.yml
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/vcr_cassettes/AkamaiRest/_purge/when_type_is_arl/when_url_is_valid/does_generate_a_json_hash.yml
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/vcr_cassettes/AkamaiRest/_purge/when_type_is_cpcode/does_generate_a_json_hash.yml
-	"	1	0
-
-> ~/.gitignore_global
-	"	1	0
-	^	8	0
-	.	7	9
-	+	7	9
-
-> ~/.gitignore
-	"	8	0
-	^	8	0
-	.	7	9
-	+	7	9
-
-> ~/Stuff/exceda_stuff/Ark/spec/support/shared_example_for_not_found.rb
-	"	4	40
-	.	1	0
-	+	1	0
-	+	9	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/support/shared_example_for_non_accepted_request.rb
-	"	6	0
-	^	6	0
-
-> ~/Stuff/exceda_stuff/Ark/config/environments/test.rb
-	"	1	0
-	.	1	0
-	+	14	25
-	+	1	0
-	+	9	28
-	+	9	0
-	+	14	0
-	+	1	0
-	+	10	1
-	+	1	0
-	+	10	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/akamai_cdns_controller_spec.rb
-	"	1	0
-	^	66	8
-	.	1	0
-	+	1	0
-	+	39	32
-	+	46	0
-	+	39	10
-	+	1	0
-	+	39	83
-	+	1	0
-	+	38	48
-	+	39	1
+> ~/Stuff/Aardvark/app/scripts/controllers/raccoon_global.js
+	"	189	22
+	^	189	23
+	.	189	22
+	+	61	0
 	+	39	3
-	+	1	0
-	+	1	0
-	+	39	0
-	+	1	0
-	+	39	51
-	+	1	0
-	+	54	0
-	+	68	0
-	+	55	74
-	+	1	0
-	+	1	0
-	+	63	28
-	+	62	40
-	+	63	60
-	+	46	0
-	+	42	0
-	+	1	0
-	+	39	88
-	+	1	0
-	+	1	0
-	+	63	55
-	+	1	0
-	+	53	0
-	+	56	0
-	+	50	0
-	+	52	0
-	+	40	0
-	+	36	0
-	+	34	8
+	+	39	3
+	+	41	0
+	+	40	23
+	+	35	15
+	+	32	14
+	+	24	15
+	+	21	14
+	+	25	16
+	+	26	0
+	+	36	16
 	+	37	0
-	+	34	0
-	+	1	0
-	+	1	0
-	+	44	46
-	+	1	0
-	+	63	192
-	+	1	0
-	+	44	34
-	+	63	51
-	+	1	0
-	+	63	70
-	+	44	35
-	+	1	0
-	+	44	28
-	+	63	56
-	+	63	26
-	+	63	71
-	+	63	64
-	+	63	69
-	+	63	36
-	+	63	79
-	+	1	0
-	+	63	88
-	+	1	0
-	+	63	79
-	+	63	79
-	+	63	36
-	+	1	0
-	+	43	8
-	+	44	36
-	+	43	28
-	+	1	0
-	+	63	60
-	+	63	28
-	+	63	28
-	+	63	115
-	+	63	28
-	+	1	0
-	+	63	61
-	+	1	0
-	+	1	0
-	+	63	28
-	+	63	56
-	+	1	0
-	+	1	0
-	+	1	0
-	+	63	28
-	+	56	9
-	+	58	16
-	+	60	0
-	+	59	33
-	+	63	55
-	+	1	0
-	+	1	0
-	+	63	88
-	+	1	0
-	+	63	52
-	+	64	0
-	+	65	76
-	+	1	0
+	+	25	18
+	+	36	17
+	+	29	2
+	+	28	2
+	+	39	2
+	+	40	0
+	+	59	36
+	+	145	21
+	+	47	25
+	+	48	25
+	+	49	27
+	+	48	29
+	+	49	29
+	+	47	52
+	+	48	29
+	+	49	46
+	+	49	0
+	+	48	53
+	+	47	25
+	+	48	25
+	+	49	25
+	+	230	0
+	+	184	0
+	+	229	0
+	+	194	22
+	+	16	117
+	+	194	0
+	+	184	0
+	+	184	0
+	+	192	31
+	+	193	41
+	+	188	29
+	+	190	33
+	+	16	126
+	+	16	0
+	+	16	126
+	+	183	25
+	+	189	22
 
-> ~/Stuff/exceda_stuff/Ark/app/controllers/api/v1/akamai_assets_controller.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/support/shared_example_for_authentication.rb
-	"	12	2
-	^	7	5
-
-> ~/Stuff/exceda_stuff/Ark/spec/support/shared_example_for_permission.rb
-	"	2	21
-	^	2	22
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/akamai_globals/response_code_charts/valid.json
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/akamai_globals/response_code_charts/invalid.json
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/raccoon_browsers/index/valid.json
-	"	1	0
-	^	1	0
+> ~/Stuff/ark4/Ark/NERD_tree_1
+	"	112	2
 	.	1	0
 	+	1	0
-	+	4	0
-	+	5	0
-	+	9	39
-	+	10	0
-	+	9	16
-	+	9	16
-	+	8	56
-	+	8	14
-	+	7	13
-	+	6	18
-	+	6	12
-	+	6	29
-	+	7	13
-	+	7	14
 	+	1	0
-	+	4	15
-	+	4	0
-	+	3	11
-	+	2	0
-	+	18	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Stuff/ark4/Ark/app/controllers/api/v1/raccoon_reports_controller.rb
+	"	1	0
+	^	20	19
+	.	20	18
+	+	28	71
 	+	21	0
-	+	4	0
+	+	20	18
+
+> ~/Stuff/ark4/Ark/app/controllers/admin/raccoon_globals_controller.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/controllers/admin/raccoon_reports_controller.rb
+	"	1	0
+	^	31	62
+	.	31	61
+	+	31	61
+
+> ~/Stuff/ark4/Ark/spec/controllers/api/v1/raccoon_reports_controller_spec.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/config/routes.rb
+	"	226	3
+
+> ~/Stuff/Aardvark/app/scripts/app.js
+	"	13	97
+	^	13	101
+	.	24	0
+	+	18	28
+	+	22	20
+	+	18	21
+	+	22	35
+	+	28	35
+	+	18	35
+	+	23	0
+	+	22	36
+	+	28	0
+	+	28	0
+	+	28	0
+	+	28	14
+	+	40	0
+	+	28	0
+	+	22	0
+	+	28	0
+	+	18	0
+	+	18	0
+	+	18	0
+	+	18	0
+	+	17	35
+	+	22	0
+	+	27	0
+	+	28	0
+	+	22	0
+	+	17	41
+	+	23	0
+	+	22	46
+	+	27	0
+	+	18	0
+	+	19	0
+	+	24	0
+	+	25	0
+	+	31	0
+	+	30	0
+	+	19	0
+	+	25	0
+	+	24	0
+	+	30	0
+	+	31	0
+	+	15	84
+	+	18	0
+	+	19	0
+	+	24	0
+	+	25	0
+	+	30	0
+	+	31	0
+	+	13	100
+	+	13	0
+	+	18	0
+	+	19	0
+	+	24	0
+	+	25	0
+	+	30	0
+	+	31	0
+	+	36	0
+	+	37	0
+	+	24	0
+	+	19	0
+	+	19	0
+	+	24	0
+	+	25	0
+	+	30	0
+	+	31	0
+	+	36	0
+	+	37	0
+	+	36	0
+	+	31	0
+	+	30	0
+	+	25	0
+	+	24	0
+
+> ~/Stuff/ArkAPI/NERD_tree_1
+	"	15	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
 	+	1	0
 
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/akamai_globals/live_traffic/valid.json
+> ~/Stuff/ArkAPI/Gruntfile.js
+	"	45	0
+
+> ~/Stuff/havana/NERD_tree_1
+	"	6	4
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Stuff/havana/index.html
+	"	1	0
+	^	40	278
+	.	40	277
+	+	44	93
+	+	44	8
+	+	45	71
+	+	51	0
+	+	13	0
+	+	23	52
+	+	17	55
+	+	45	0
+	+	46	0
+	+	47	39
+	+	49	24
+	+	48	0
+	+	47	0
+	+	48	0
+	+	49	0
+	+	6	0
+	+	6	0
+	+	7	0
+	+	5	0
+	+	7	0
+	+	6	25
+	+	15	23
+	+	17	68
+	+	21	0
+	+	14	27
+	+	22	0
+	+	15	0
+	+	21	0
+	+	15	38
+	+	16	41
+	+	17	73
+	+	20	0
+	+	18	0
+	+	19	14
+	+	18	33
+	+	19	32
+	+	18	40
+	+	19	45
+	+	17	0
+	+	10	0
+	+	11	78
+	+	10	14
+	+	19	0
+	+	25	0
+	+	43	0
+	+	25	25
+	+	43	28
+	+	43	0
+	+	43	0
+	+	43	0
+	+	43	0
+	+	43	0
+	+	43	0
+	+	43	0
+	+	28	37
+	+	28	21
+	+	38	0
+	+	28	43
+	+	33	43
+	+	26	22
+	+	42	0
+	+	28	0
+	+	38	0
+	+	42	0
+	+	29	23
+	+	34	22
+	+	39	0
+	+	11	62
+	+	27	27
+	+	32	0
+	+	37	0
+	+	31	0
+	+	28	0
+	+	29	0
+	+	31	0
+	+	36	0
+	+	33	0
+	+	41	0
+	+	38	0
+	+	29	12
+	+	34	12
+	+	39	12
+	+	29	29
+	+	34	28
+	+	39	28
+	+	28	85
+	+	28	10
+	+	27	38
+	+	32	0
+	+	37	0
+	+	19	102
+	+	19	14
+	+	39	25
+	+	30	175
+	+	31	0
+	+	30	28
+	+	35	29
+	+	36	0
+	+	35	203
+	+	40	277
+
+> ~/Stuff/havana/css/master.css
+	"	1	0
+	^	11	1
+	.	6	10
+	+	1	21
+	+	3	13
+	+	5	21
+	+	6	10
+	+	3	0
+	+	2	10
+	+	10	32
+	+	11	0
+	+	10	32
+	+	9	14
+	+	9	0
+	+	11	1
+	+	11	1
+	+	9	13
+	+	10	4
+	+	11	1
+	+	10	0
+	+	12	0
+	+	12	0
+	+	6	10
+
+> ~/Stuff/havana/README.MD
+	"	8	73
+	^	8	74
+	.	8	73
+	+	1	19
+	+	4	27
+	+	5	128
+	+	6	0
+	+	7	0
+	+	5	64
+	+	6	65
+	+	9	0
+	+	7	24
+	+	8	26
+	+	7	86
+	+	8	73
+
+> ~/Stuff/Aardvark/app/scripts/directives/menuaccordion.js
 	"	1	0
 
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/akamai_cdns/index/valid.json
+> ~/Stuff/ark4/Ark/app/models/raccoon_report.rb
 	"	1	0
 
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/raccoon_connections/index/valid.json
+> ~/Stuff/Aardvark/app/views/tpl/mainMenu.html
 	"	1	0
-	^	6	6
+
+> ~/Stuff/Aardvark/app/scripts/controllers/users.js
+	"	1	0
+
+> ~/Stuff/Aardvark/NERD_tree_2
+	"	20	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Downloads/Peacock/src/js/resources/roles.js
+	"	1	0
+
+> ~/Stuff/pibiti/NERD_tree_1
+	"	9	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Stuff/pibiti/home_automation_server/app.js
+	"	1	0
+	^	2	0
+	.	2	0
+	+	11	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+
+> ~/Stuff/pibiti/home_automation_server/routes/index.js
+	"	1	0
+
+> ~/Stuff/pibiti/home_automation_server/views/index.jade
+	"	1	0
+
+> ~/Stuff/pibiti/home_automation_server/package.json
+	"	1	0
+
+> ~/Stuff/pibiti/home_automation_server/bin/www
+	"	1	0
+
+> ~/Stuff/Aardvark/app/scripts/services/akamai_globals.js
+	"	1	0
+
+> ~/Stuff/Aardvark/,
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/views/admin/raccoon_jobs/_form.html.erb
+	"	160	78
+
+> ~/Stuff/ark4/Ark/app/services/akamai/akamai_web_service.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/models/akamai_asset.rb
+	"	1	0
+	^	114	9
+	.	108	0
+	+	127	11
+	+	129	0
+	+	127	0
+	+	53	0
+	+	108	35
+	+	108	0
+	+	108	0
+	+	109	29
+	+	108	24
+	+	121	0
+	+	110	27
+	+	121	24
+	+	121	24
+	+	121	8
+	+	121	0
+	+	110	49
+	+	110	46
+	+	110	57
+	+	110	49
+	+	110	36
+	+	109	57
+	+	110	49
+	+	121	0
+	+	110	27
+	+	110	50
+	+	116	22
+	+	118	28
+	+	109	56
+	+	108	0
+	+	108	0
+	+	109	29
+	+	110	0
+	+	109	3
+	+	109	0
+	+	109	0
+	+	122	0
+	+	108	0
+	+	109	6
+	+	110	19
+	+	116	0
+	+	109	32
+	+	110	18
+	+	110	19
+	+	117	31
+	+	120	30
+	+	109	7
+	+	110	19
+	+	116	0
+	+	115	0
+	+	110	0
+	+	111	21
+	+	113	32
+	+	114	0
+	+	108	0
+	+	108	0
+
+> ~/Stuff/ark4/Ark/app/models/akamai_global.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/lib/fonts/Ubuntu-R.ttf
+	"	1	0
+
+> ~/Stuff/ark4/Ark/spec/workers/akamai_executive_report_generator_worker_spec.rb
+	"	38	0
+	^	40	94
+	.	40	93
+	+	1	0
+	+	5	0
+	+	5	1
+	+	7	0
+	+	11	0
+	+	11	19
+	+	23	0
+	+	22	32
+	+	25	0
+	+	25	34
+	+	25	23
+	+	25	90
+	+	22	51
+	+	22	0
+	+	17	26
+	+	18	27
+	+	20	0
+	+	18	28
+	+	22	110
+	+	25	30
+	+	22	0
+	+	7	0
+	+	25	34
+	+	26	51
+	+	6	2
+	+	26	45
+	+	27	0
+	+	25	30
+	+	27	7
+	+	29	0
+	+	30	0
+	+	29	23
+	+	30	58
+	+	29	41
+	+	25	27
+	+	29	36
+	+	12	24
+	+	17	1
+	+	18	3
+	+	19	5
+	+	21	1
+	+	22	3
+	+	23	5
+	+	25	1
+	+	26	3
+	+	27	5
+	+	29	1
+	+	30	3
+	+	31	9
+	+	32	7
+	+	33	4
+	+	34	26
+	+	12	26
+	+	18	61
+	+	40	39
+	+	18	14
+	+	17	9
+	+	18	30
+	+	40	79
+	+	13	30
+	+	15	0
+	+	13	29
+	+	14	51
+	+	16	0
+	+	18	92
+	+	35	0
+	+	38	0
+	+	36	51
+	+	40	93
+
+> ~/Stuff/ark4/Ark/config/environments/test.rb
+	"	33	2
+	^	40	0
+	.	34	0
+	+	49	0
+	+	40	0
+	+	39	0
+	+	34	0
+
+> ~/Stuff/ark4/Ark/app/workers/raccoon_executive_report_generator_worker.rb
+	"	63	19
+	^	55	20
+	.	55	19
+	+	213	48
+	+	213	0
+	+	208	87
+	+	208	115
+	+	213	18
+	+	214	0
+	+	208	95
+	+	208	71
+	+	208	79
+	+	208	105
+	+	208	96
+	+	208	72
+	+	208	63
+	+	208	63
+	+	208	63
+	+	214	16
+	+	208	63
+	+	208	71
+	+	208	71
+	+	208	63
+	+	208	71
+	+	208	79
+	+	208	100
+	+	208	71
+	+	208	93
+	+	208	97
+	+	208	63
+	+	211	0
+	+	211	0
+	+	213	14
+	+	214	0
+	+	213	14
+	+	209	73
+	+	213	0
+	+	209	21
+	+	213	18
+	+	208	53
+	+	209	14
+	+	208	53
+	+	209	0
+	+	208	14
+	+	7	0
+	+	209	32
+	+	209	24
+	+	210	28
+	+	210	61
+	+	210	61
+	+	210	54
+	+	213	0
+	+	210	67
+	+	210	78
+	+	210	43
+	+	210	81
+	+	210	27
+	+	210	0
+	+	210	27
+	+	210	54
+	+	210	27
+	+	210	54
+	+	210	58
+	+	210	18
+	+	209	31
+	+	210	19
+	+	210	27
+	+	210	55
+	+	204	0
+	+	204	0
+	+	204	0
+	+	203	67
+	+	217	62
+	+	212	32
+	+	211	31
+	+	217	60
+	+	196	0
+	+	58	19
+	+	184	20
+	+	197	0
+	+	198	0
+	+	57	48
+	+	59	47
+	+	57	49
+	+	59	48
+	+	56	29
+	+	178	0
+	+	176	50
+	+	177	22
+	+	186	6
+	+	191	0
+	+	189	48
+	+	199	6
+	+	191	0
+	+	178	0
+	+	55	0
+	+	190	55
+	+	177	53
+	+	197	22
+	+	184	22
+	+	179	20
+	+	192	0
+	+	55	19
+
+> ~/Stuff/ark4/Ark/app/workers/raccoon_report_worker.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/ControlP
+	"	9	0
 	.	2	0
 	+	1	0
 	+	1	0
-	+	4	0
-	+	6	14
-	+	7	15
-	+	7	15
-	+	7	32
-	+	7	0
-	+	6	14
-	+	6	13
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
 	+	1	0
 	+	2	0
 
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/raccoon_connections/show/valid.json
+> ~/Stuff/ark4/Ark/app/models/raccoon_job.rb
+	"	159	14
+	^	159	15
+	.	159	14
+	+	159	14
+
+> ~/Stuff/ark4/Ark/app/models/raccoon_result.rb
 	"	1	0
-	^	11	1
-	.	1	0
-	+	1	0
-	+	2	0
-	+	1	0
-	+	5	13
-	+	4	12
-	+	4	12
-	+	4	29
-	+	5	13
-	+	5	30
-	+	1	0
+	.	38	0
+	+	37	5
+	+	38	5
+	+	39	5
+	+	40	5
+	+	38	0
 
-> ~/Stuff/exceda_stuff/Ark/spec/fixtures/api/schemas/v1/raccoon_frequencies/show/valid.json
+> ~/Stuff/ark4/Ark/app/models/raccoon_queue.rb
 	"	1	0
-	^	4	15
-	.	1	0
-	+	1	0
-	+	2	0
-	+	1	0
-	+	4	12
-	+	5	34
-	+	5	16
-	+	5	16
-	+	5	34
-	+	5	34
-	+	4	34
-	+	4	12
-	+	4	14
-	+	1	0
 
-> ~/Stuff/exceda_stuff/Ark/app/controllers/api/v1/billing_groups_controller.rb
-	"	52	8
-	.	1	0
-	+	1	0
-	+	3	0
-	+	14	0
-	+	4	49
-	+	4	49
-	+	4	49
-	+	4	49
-	+	4	49
-	+	4	49
-	+	6	0
-	+	4	52
-	+	5	0
+> ~/Stuff/ark4/Ark/app/models/raccoon_result_tracker.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/models/page_speed_score.rb
+	"	32	11
+	^	32	12
+	.	32	11
+	+	36	0
+	+	32	6
+	+	36	0
+	+	34	0
+	+	35	1
+	+	32	10
+	+	33	38
+	+	10	0
+	+	9	0
+	+	11	2
+	+	32	11
+
+> ~/Stuff/ark4/Ark/app/workers/page_speed_score_worker.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/models/akamai_report.rb
+	"	38	1
+	^	69	28
+	.	69	27
+	+	7	12
+	+	68	15
+	+	69	47
+	+	72	0
+	+	71	0
+	+	69	32
+	+	11	2
 	+	7	0
-	+	15	0
-	+	16	0
-	+	20	0
-	+	50	0
+	+	69	27
+
+> ~/Stuff/ark4/Ark/app/views/api/v1/page_speed_scores/show.json.jbuilder
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/controllers/api/v1/page_speed_scores_controller.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/views/api/v1/raccoon_results/index.json.jbuilder
+	"	1	78
+
+> ~/Stuff/ark4/Ark/lib/fonts/raccoon_notes.txt
+	"	15	12
+	^	16	0
+	.	15	12
 	+	1	0
-	+	1	0
-	+	74	0
-	+	1	0
-	+	73	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	5	0
-	+	1	0
-	+	1	0
-	+	5	30
-	+	1	0
-	+	68	0
-	+	1	0
+	+	15	12
+
+> ~/Stuff/ark4/Ark/app/workers/raccoon_result_cdn_worker.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/controllers/api/v1/raccoon_results_controller.rb
+	"	11	15
+
+> ~/Stuff/ark4/Ark/app/mailers/executive_report_mailer.rb
+	"	2	40
+	^	2	41
+	.	2	41
+	+	10	0
 	+	6	0
-	+	1	0
-	+	5	30
-	+	1	0
-	+	6	0
-	+	1	0
-	+	1	0
-	+	68	0
 	+	8	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/billing_groups_controller_spec.rb
-	"	200	6
-	^	157	4
-	.	1	0
-	+	167	0
-	+	167	0
-	+	167	0
-	+	167	0
-	+	167	0
-	+	1	0
-	+	166	0
-	+	1	0
-	+	170	88
-	+	1	0
-	+	166	6
-	+	170	0
-	+	166	0
-	+	1	0
-	+	165	12
-	+	168	87
-	+	169	0
-	+	166	0
-	+	1	0
-	+	204	0
-	+	1	0
-	+	166	6
-	+	168	88
-	+	167	87
-	+	167	90
-	+	167	91
-	+	167	90
-	+	167	87
-	+	167	0
-	+	167	88
-	+	166	73
-	+	167	0
-	+	1	0
-	+	170	90
-	+	1	0
-	+	1	0
-	+	204	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	166	0
-	+	1	0
-	+	204	32
-	+	1	0
-	+	1	0
-	+	204	0
-	+	169	0
-	+	1	0
-	+	199	0
-	+	199	0
-	+	165	0
-	+	171	0
-	+	168	72
-	+	169	0
-	+	1	0
-	+	1	0
-	+	190	62
-	+	1	0
-	+	190	0
-	+	190	30
-	+	1	0
-	+	190	0
-	+	1	0
-	+	189	0
-	+	1	0
-	+	180	57
-	+	1	0
-	+	176	28
-	+	1	0
-	+	169	0
-	+	165	0
-	+	190	0
-	+	190	0
-	+	209	0
-	+	189	0
-	+	1	0
-	+	168	0
-	+	1	0
-	+	136	34
-	+	1	0
-	+	1	0
-	+	161	0
-	+	136	92
-	+	1	0
-	+	136	80
-	+	1	0
-	+	136	180
-	+	1	0
-	+	136	98
-	+	1	0
-	+	1	0
-	+	201	80
-	+	1	0
-	+	1	0
-	+	1	0
-	+	136	34
-	+	206	0
-	+	137	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/models/raccoon_global.rb
-	"	1	0
-	^	73	0
-
-> ~/Stuff/exceda_stuff/Ark/app/views/api/v1/akamai_assets/index.json.jbuilder
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/config/initializers/devise.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/config/initializers/akamai_xml_layout.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/services/akamai_web_service_spec.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/.gitignore
-	"	17	0
-	.	17	0
-	+	17	0
-
-> ~/Stuff/exceda_stuff/Ark/app/services/akamai/luna.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/.rspec
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/.coco.yml
-	"	4	22
-	^	1	0
-	.	1	0
-	+	1	24
-	+	5	0
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/config/initializers/mime_types.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/admin/akamai_lds_controller_spec.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/controllers/admin/akamai_lds_controller.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/app/models/akamai_lds.rb
-	"	67	34
-	^	91	23
-
-> ~/Stuff/exceda_stuff/Ark/app/controllers/admin/admins_controller.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/admin/admin_controller_spec.rb
-	"	1	0
-	^	49	8
-	.	1	0
-	+	41	46
-	+	1	0
-	+	1	0
-	+	49	39
-	+	1	0
-
-> ~/Stuff/helabs_stuff/r14-team-130/spec/controllers/gifs_controller_spec.rb
-	"	70	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/admin/cities_controller_spec.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/admin/raccoon_browsers_controller_spec.rb
-	"	1	0
-	^	69	10
-	.	1	0
-	+	52	0
-	+	61	69
-	+	1	0
-	+	16	9
+	+	6	36
+	+	8	45
+	+	2	34
+	+	7	82
+	+	7	14
+	+	7	110
 	+	7	0
-	+	11	0
-	+	7	2
-	+	16	25
-	+	31	0
-	+	30	0
-	+	92	26
-	+	90	0
-	+	41	0
-	+	40	23
-	+	46	7
-	+	47	5
+	+	2	33
+	+	7	48
+	+	2	41
+
+> ~/Stuff/ark4/Ark/app/mailers/devise_mailer.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/mailers/raccoon_alert_mailer.rb
+	"	2	28
+
+> ~/Stuff/Aardvark/app/scripts/directives/raccoon-result-os-charts.js
+	"	65	35
+
+> ~/Stuff/Aardvark/app/scripts/controllers/raccoon_queues.js
+	"	130	19
+	^	253	81
+	.	253	80
+	+	278	22
+	+	278	0
+	+	278	12
+	+	278	0
+	+	278	0
+	+	278	0
+	+	278	0
+	+	278	0
+	+	278	0
+	+	280	0
+	+	278	12
+	+	278	22
+	+	278	0
+	+	278	22
+	+	278	11
+	+	278	0
+	+	278	0
+	+	278	0
+	+	278	0
+	+	278	0
+	+	278	30
+	+	273	0
+	+	272	34
+	+	272	23
+	+	274	26
+	+	277	0
+	+	275	27
+	+	268	0
+	+	266	27
+	+	265	26
+	+	263	24
+	+	261	31
+	+	270	31
+	+	266	28
+	+	275	28
+	+	270	32
+	+	278	0
+	+	278	0
+	+	246	26
+	+	251	89
+	+	252	90
+	+	246	0
+	+	253	80
+
+> ~/Stuff/Aardvark/app/views/raccoon-queues/show.html
+	"	63	36
+
+> ~/Stuff/Aardvark/app/scripts/controllers/akamai_globals.js
+	"	229	1
+	^	44	26
+	.	45	25
+	+	36	42
+	+	55	55
+	+	37	19
+	+	55	0
+	+	37	19
+	+	39	15
+	+	55	20
+	+	39	21
+	+	43	5
+	+	55	8
+	+	43	45
+	+	43	49
+	+	43	48
+	+	55	46
+	+	55	6
+	+	55	6
+	+	55	18
+	+	55	9
+	+	55	38
+	+	37	16
+	+	55	44
+	+	55	8
+	+	55	46
+	+	55	20
+	+	55	58
+	+	55	7
+	+	55	52
+	+	55	21
+	+	55	19
+	+	55	22
+	+	55	6
+	+	55	6
+	+	55	19
+	+	55	18
+	+	55	47
+	+	55	59
+	+	55	8
+	+	55	36
+	+	55	13
+	+	55	26
+	+	55	9
+	+	55	33
+	+	55	35
+	+	55	29
+	+	55	8
+	+	55	6
+	+	48	1
+	+	47	0
+	+	55	6
 	+	49	25
 	+	50	0
-	+	55	7
-	+	56	5
-	+	58	27
-	+	75	28
-	+	91	0
-	+	1	0
-	+	99	0
-	+	1	0
-	+	66	0
-	+	65	40
-	+	66	0
-	+	69	52
-	+	66	33
-	+	81	6
-	+	89	0
-	+	83	27
-	+	82	24
-	+	83	39
-	+	87	0
-	+	84	0
-	+	84	0
-	+	86	50
-	+	70	0
-	+	66	149
-	+	69	0
-	+	67	0
-	+	67	0
-	+	68	0
-	+	67	50
-	+	84	75
-	+	1	0
-	+	84	76
-	+	1	0
-	+	32	20
-	+	34	0
-	+	33	26
-	+	36	45
-	+	1	0
+	+	51	33
+	+	47	5
+	+	55	43
+	+	51	0
+	+	50	21
+	+	51	22
+	+	49	31
+	+	50	0
+	+	51	34
+	+	50	0
+	+	55	24
+	+	55	6
+	+	55	25
+	+	55	6
+	+	55	27
+	+	55	27
+	+	40	41
+	+	55	26
+	+	55	23
+	+	40	0
+	+	40	0
+	+	40	0
+	+	40	0
 	+	39	0
-	+	25	6
-	+	18	6
-	+	17	35
-	+	24	10
-	+	23	0
-	+	24	37
-	+	26	20
-	+	1	0
-	+	34	0
-	+	1	0
-	+	69	49
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/admin/permissions_controller_spec.rb
-	"	1	0
-	^	53	4
-	.	1	0
-	+	19	4
-	+	20	20
-	+	7	2
-	+	11	2
-	+	15	2
-	+	20	15
-	+	1	0
-	+	30	20
-	+	53	36
-	+	54	0
-	+	24	0
-	+	60	27
-	+	1	0
-	+	30	0
-	+	33	16
-	+	31	16
-	+	1	0
-	+	30	20
-	+	1	0
-	+	29	0
-	+	22	0
-	+	1	0
-	+	80	24
-	+	1	0
-	+	100	2
-	+	63	58
-	+	64	60
-	+	1	0
-	+	83	45
-	+	83	77
-	+	83	77
-	+	84	153
-	+	1	0
-	+	99	0
-	+	101	30
-	+	1	0
-	+	83	23
-	+	84	0
-	+	85	0
-	+	85	0
-	+	84	0
-	+	84	79
-	+	83	77
-	+	104	25
-	+	1	0
-	+	1	0
-	+	19	15
-	+	19	0
-	+	19	39
-	+	17	24
-	+	1	0
-	+	19	0
-	+	19	57
-	+	1	0
-	+	1	0
-	+	78	0
-	+	71	16
-	+	72	33
-	+	1	0
-	+	74	0
-	+	73	45
-	+	1	0
-	+	75	46
-	+	1	0
-	+	1	0
-	+	92	0
-	+	91	33
-	+	98	0
-	+	93	42
-	+	94	13
-	+	1	0
-	+	93	20
-	+	1	0
-	+	19	0
-	+	1	0
-	+	49	0
-	+	43	15
-	+	40	19
-	+	41	27
-	+	1	0
-
-> ~/Stuff/exceda_stuff/Ark/config/routes.rb
-	"	1	0
-
-> ~/Stuff/exceda_stuff/Ark/Gemfile
-	"	1	0
-	^	11	0
-	.	1	0
-	+	27	28
-	+	1	0
-	+	28	29
-	+	1	0
-	+	18	24
-	+	18	0
-	+	94	0
-	+	1	0
-	+	22	0
-	+	1	0
-	+	25	24
-	+	1	0
-	+	25	22
-	+	25	0
-	+	1	0
+	+	40	41
+	+	36	0
 	+	37	0
-	+	26	25
-	+	1	0
-	+	1	0
-	+	9	20
-	+	1	0
-	+	1	0
+	+	36	4
+	+	36	0
+	+	36	23
+	+	56	0
+	+	56	0
+	+	17	18
+	+	19	0
+	+	18	0
+	+	18	0
+	+	26	42
+	+	26	4
+	+	26	42
+	+	28	0
+	+	28	0
+	+	18	22
+	+	28	0
+	+	27	0
+	+	36	23
+	+	56	21
+	+	43	25
+	+	44	25
+	+	45	25
 
-> ~/Stuff/exceda_stuff/Ark/spec/factories/akamai_assets.rb
+> ~/Stuff/Aardvark/app/scripts/services/pagespeed_scores.js
 	"	1	0
-	^	1	25
 
-> ~/Stuff/exceda_stuff/Ark/spec/factories/akamai_cdns.rb
+> ~/Stuff/Aardvark/app/views/pagespeed/show.html
 	"	1	0
 
-> ~/Stuff/exceda_stuff/Ark/spec/controllers/api/v1/client_controller_spec.rb
-	"	178	8
-	^	178	123
-	.	1	0
-	+	144	0
-	+	144	16
-	+	1	0
-	+	145	0
-	+	148	0
-	+	156	0
-	+	159	65
-	+	159	65
-	+	159	0
-	+	159	65
-	+	160	70
-	+	164	7
-	+	160	0
-	+	160	0
-	+	161	0
-	+	1	0
-	+	156	3
-	+	159	5
-	+	160	1
-	+	161	68
-	+	164	0
-	+	159	62
-	+	159	73
-	+	1	0
-	+	185	0
-	+	185	0
-	+	186	0
-	+	185	0
-	+	156	0
-	+	157	13
-	+	169	6
-	+	164	1
-	+	160	3
-	+	161	5
-	+	159	7
-	+	158	1
-	+	157	49
-	+	1	0
-	+	166	44
-	+	168	1
-	+	167	44
-	+	1	0
+> ~/Stuff/ark4/Ark/sidekiq.pid
+	"	1	0
+
+> ~/Downloads/New iGO8 2016 Portal do GPS/SHELL.INI
+	"	1	0
+
+> ~/Stuff/ark4/Ark/app/controllers/api/v1/akamai_reports_controller.rb
+	"	1	0
+	.	29	97
+	+	29	97
+
+> ~/Stuff/ark4/Ark/app/workers/akamai_report_worker.rb
+	"	25	8
+	.	16	0
+	+	8	14
+	+	16	22
+	+	8	0
+	+	16	0
+
+> ~/Stuff/ark4/Ark/app/controllers/api/v1/akamai_globals_controller.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/Gemfile
+	"	14	19
+	^	14	20
+	.	14	19
+	+	16	0
+	+	11	0
+	+	15	0
+	+	11	10
+	+	12	15
+	+	11	18
+	+	12	0
+	+	15	0
+	+	13	21
+	+	15	0
+	+	14	19
+
+> ~/Stuff/ark4/Ark/spec/workers/raccoon_alerts_worker_spec.rb
+	"	28	6
+
+> ~/Stuff/ark4/Ark/app/views/mailer/executive_report_mailer/akamai_report.html.erb
+	"	3	44
+	.	4	0
+	+	2	0
+	+	1	48
+	+	1	134
+	+	2	0
+	+	2	22
+	+	4	0
+	+	2	27
+	+	3	57
+	+	4	0
+
+> ~/Stuff/ark4/Ark/config/environments/development.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/spec/workers/akamai_report_worker_spec.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/spec/factories/akamai_reports.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/spec/factories/akamai_assets.rb
+	"	9	19
+
+> ~/Stuff/ark4/Ark/spec/factories/admin.rb
+	"	1	0
+
+> ~/Stuff/ark4/Ark/spec/factories/akamai_globals.rb
+	"	9	14
+
+> ~/Stuff/Aardvark/app/scripts/controllers/akamai_assets.js
+	"	612	9
+	.	629	0
+	+	449	23
+	+	449	42
+	+	449	42
+	+	449	73
+	+	449	73
+	+	29	4
+	+	29	8
+	+	29	7
+	+	29	24
+	+	449	57
+	+	451	57
+	+	29	8
+	+	29	8
+	+	449	63
+	+	451	64
+	+	29	36
+	+	29	33
+	+	29	36
+	+	29	4
+	+	29	10
+	+	29	4
+	+	29	11
+	+	29	12
+	+	29	11
+	+	29	111
+	+	29	11
+	+	29	4
+	+	29	68
+	+	449	79
+	+	29	4
+	+	449	42
+	+	449	0
+	+	449	0
+	+	449	0
+	+	449	34
+	+	449	9
+	+	449	60
+	+	449	9
+	+	449	73
+	+	29	4
+	+	29	4
+	+	29	8
+	+	29	8
+	+	95	0
+	+	29	4
+	+	449	57
+	+	449	0
+	+	449	23
+	+	449	0
+	+	449	0
+	+	449	0
+	+	449	0
+	+	449	25
+	+	449	0
+	+	451	0
+	+	29	26
+	+	94	0
+	+	29	26
+	+	94	0
+	+	29	4
+	+	29	0
+	+	89	6
+	+	88	7
+	+	89	7
+	+	90	0
+	+	90	108
+	+	93	0
+	+	90	64
+	+	92	0
+	+	449	66
+	+	464	0
+	+	363	21
+	+	358	97
+	+	358	0
+	+	359	0
+	+	359	117
+	+	363	0
+	+	615	0
+	+	622	33
+	+	615	3
+	+	622	33
+	+	622	31
+	+	622	0
+	+	615	0
+	+	617	0
+	+	628	42
+	+	669	4
+	+	669	4
+	+	670	0
+	+	628	44
+	+	360	108
+	+	623	22
+	+	628	40
+	+	627	36
+	+	671	9
+	+	627	10
+	+	672	0
+	+	671	3
+	+	670	5
+	+	629	0
+
+> ~/Stuff/Aardvark/app/scripts/directives/filmstrip.js
+	"	35	89
+	^	35	14
+	.	36	0
+	+	21	43
+	+	29	91
+	+	38	5
+	+	29	57
+	+	31	25
+	+	38	46
+	+	29	89
+	+	21	56
+	+	32	42
+	+	38	6
+	+	21	41
+	+	29	92
+	+	20	0
+	+	29	0
+	+	29	12
+	+	29	75
+	+	22	0
+	+	22	18
+	+	29	85
+	+	22	0
+	+	29	67
+	+	20	0
+	+	20	13
+	+	29	77
+	+	20	0
+	+	29	67
+	+	29	91
+	+	29	70
+	+	29	67
+	+	29	0
+	+	28	30
+	+	28	27
+	+	29	12
+	+	28	0
+	+	29	0
+	+	29	12
+	+	29	79
+	+	10	48
+	+	28	7
+	+	28	13
+	+	28	29
+	+	28	0
+	+	28	28
+	+	28	39
+	+	29	97
+	+	29	79
+	+	10	0
+	+	23	0
+	+	22	10
+	+	29	74
+	+	29	28
+	+	22	23
+	+	29	84
+	+	29	0
+	+	29	7
+	+	22	0
+	+	29	0
+	+	29	79
+	+	29	23
+	+	29	35
+	+	29	27
+	+	29	43
+	+	29	0
+	+	29	38
+	+	29	39
+	+	29	13
+	+	29	45
+	+	29	12
+	+	29	31
+	+	29	0
+	+	29	0
+	+	29	28
+	+	29	37
+	+	29	33
+	+	29	42
+	+	29	0
+	+	29	0
+	+	29	0
+	+	29	30
+	+	29	41
+	+	29	0
+	+	29	0
+	+	29	0
+	+	29	0
+	+	28	37
+	+	29	97
+	+	28	0
+	+	33	50
+	+	37	8
+	+	29	12
+	+	30	0
+	+	29	0
+	+	37	0
+	+	35	0
+	+	37	0
+	+	35	89
+	+	34	73
+	+	35	1
+	+	35	109
+	+	36	0
+
+> ~/Stuff/Aardvark/app/index.html
+	"	165	33
+	^	214	64
+	.	214	16
+	+	310	41
+	+	301	0
+	+	166	0
+	+	166	0
+	+	165	52
 	+	167	0
-	+	163	119
-	+	1	0
-	+	167	47
-	+	1	0
-	+	157	44
-	+	185	0
-	+	172	0
-	+	166	38
-	+	181	35
-	+	1	0
-	+	178	122
-	+	1	0
+	+	311	44
+	+	213	16
+	+	214	16
 
-> ~/Stuff/exceda_stuff/Ark/spec/models/billing_group_spec.rb
+> ~/Stuff/Aardvark/ControlP
+	"	4	0
+	.	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	2	0
+
+> ~/Stuff/Aardvark/app/views/tpl/filmstrip.html
+	"	1	0
+	^	11	37
+	.	11	36
+	+	11	36
+
+> ~/Stuff/Aardvark/app/scripts/directives/username.js
 	"	1	0
 
-> ~/Stuff/exceda_stuff/Ark/spec/views/admin/clients/billing_report_view_spec.rb
+> ~/Stuff/Aardvark/app/scripts/directives/average_calculator.js
 	"	1	0
+	^	9	31
+	.	9	30
+	+	1	0
+	+	3	0
+	+	4	45
+	+	20	0
+	+	5	10
+	+	6	31
+	+	8	34
+	+	17	23
+	+	7	32
+	+	14	41
+	+	11	39
+	+	12	0
+	+	11	41
+	+	12	7
+	+	10	20
+	+	12	26
+	+	14	32
+	+	17	23
+	+	15	36
+	+	17	27
+	+	15	35
+	+	11	0
+	+	15	0
+	+	17	31
+	+	16	33
+	+	17	18
+	+	17	0
+	+	9	30
+
+> ~/Stuff/Aardvark/app/scripts/directives/quota_calculator.js
+	"	1	0
+
+> ~/Stuff/Aardvark/app/views/akamai-globals/performance_chart.html
+	"	1	0
+	^	107	25
+	.	73	0
+	+	55	33
+	+	75	0
+	+	55	0
+	+	57	74
+	+	73	0
+	+	73	70
+	+	83	0
+	+	84	0
+	+	84	0
+	+	83	70
+	+	53	0
+	+	57	0
+	+	57	0
+	+	69	0
+	+	73	0
+	o	75	13
+
+> ~/Stuff/Aardvark/app/views/tpl/average_calculator.html
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/Stuff/Aardvark/app/views/akamai-globals/response_code_chart.html
+	"	1	0
+	^	74	69
+	.	74	56
+	+	56	0
+	+	53	0
+	+	55	0
+	+	56	56
+	+	74	10
+	+	75	0
+	+	74	0
+	+	75	0
+	+	74	0
+	+	70	0
+	+	72	0
+	+	73	0
+	+	74	56
+
+> ~/Stuff/Aardvark/app/views/akamai-globals/traffic_chart.html
+	"	1	0
+	^	97	20
+	.	97	19
+	+	58	0
+	+	59	0
+	+	60	56
+	+	94	18
+	+	94	0
+	+	101	0
+	+	94	0
+	+	101	0
+	+	98	0
+	+	100	0
+	+	97	19
+
+> ~/Stuff/Aardvark/app/views/assets/purge.html
+	"	25	0
+
+> ~/Stuff/pibiti/home_automation_server/NERD_tree_1
+	"	5	7
+	.	1	0
+	+	1	0
+
+> ~/Stuff/pibiti/home_automation_client/NERD_tree_1
+	"	10	8
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Downloads/vim-presentation/intro.swtc
+	"	9	1
+
+> ~/.zshrc
+	"	108	25
+	^	108	26
+	.	108	25
+	+	59	17
+	+	15	0
+	+	9	0
+	+	74	0
+	+	73	19
+	+	74	17
+	+	93	0
+	+	102	70
+	+	102	0
+	+	102	70
+	+	104	0
+	+	105	0
+	+	102	70
+	+	102	70
+	+	104	0
+	+	102	70
+	+	100	0
+	+	101	8
+	+	102	65
+	+	108	25
+
+> ~/Stuff/noofences/noofences-api/NERD_tree_1
+	"	25	2
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/Stuff/noofences/noofences-api/Gemfile
+	"	30	0
+	^	7	17
+	.	7	10
+	+	32	0
+	+	31	10
+	+	29	0
+	+	29	0
+	+	11	0
+	+	40	0
+	+	39	0
+	+	40	0
+	+	34	0
+	+	44	2
+	+	6	16
+	+	9	0
+	+	9	0
+	+	7	0
+	+	7	0
+	+	8	0
+	+	7	10
+
+> ~/Stuff/noofences/noofences-api/config/initializers/doorkeeper.rb
+	"	1	0
+	^	3	15
+	.	3	14
+	+	3	14
+
+> ~/Stuff/noofences/noofences-api/app/models/user.rb
+	"	1	0
+	^	5	14
+	.	5	13
+	+	4	30
+	+	5	13
+
+> ~/Stuff/noofences/noofences-api/config/initializers/rails_admin.rb
+	"	1	0
+	^	9	44
+	.	9	43
+	+	5	0
+	+	6	0
+	+	9	0
+	+	7	37
+	+	9	43
